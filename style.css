@@ -1,0 +1,120 @@
+body{
+
+    margin:0px;
+    background-color:#FFFACD;
+}
+
+/*navbar*/
+
+
+.title{
+    position:absolute;
+    left:36.5%;
+    font-size:30px;
+    margin-top:15px;
+   font-family: 'Hanalei', cursive;
+
+}
+.navbar{
+
+    overflow:hidden;
+    background-color:#FFEBCD;
+
+}
+
+
+.navbar a {
+    float: left;
+    display: block;
+    color:black;
+    text-align: center;
+    padding: 25px 25px;
+    text-decoration:none;
+    font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color:#E0FFFF;
+  color: black;
+}
+.navbar a.active {
+  background-color:#E9967A;
+  color: white;
+}
+
+.navbar input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top:19px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+
+.navbar input[type=text] {
+    border: 1px solid #FFEBCD;
+}
+
+/*end of the navbar*/
+
+.inputs input{
+    margin:8px ;
+    text-align:center;
+
+}
+
+.lion-img img{
+    position:absolute;
+    height:250px;
+    width:250px;
+    margin-left:1100px;
+}
+
+.leon-img img{
+    position:absolute;
+    height:250px;
+    width:250px;
+    margin-left:830px;
+
+}
+
+a:hover{
+    background-color:#FF7F50;
+    color:white;
+}
+
+.audio-1{
+  float:right;
+  margin-top:270px;
+  margin-right:20px;
+
+
+}
+
+.audio-1 h5{
+  margin:0px;
+  text-align:center;
+  color:#000000;
+  font-size:40px;
+  font-family:"Brush Script MT", cursive;
+}
+
+
+.video-1 {
+  
+  position:absolute;
+  height:350px;
+  width:350px;
+  margin-left:100px;
+}
+
+.video-1 h6{
+  margin:0px;
+  text-align:center;
+  color:#000000;
+  font-size:40px;
+  font-family:"Brush Script MT", cursive;
+}
+
+
+
